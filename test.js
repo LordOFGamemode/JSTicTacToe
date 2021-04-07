@@ -1,0 +1,1 @@
+$.ajax({type:"POST",dataType:"json",url:"/api/invite/generate",success:function(e){console.log(e)},error:function(e){console.log(e)}});

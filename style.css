@@ -1,0 +1,27 @@
+.field {
+    background-color: bisque;
+    width: 200px;
+    height: 200px;
+    display: inline-block; 
+    
+}
+.cross {
+    align-items: center;
+    background-color: rgb(223, 79, 79);
+    width: 200px;
+    height: 200px
+}
+.cross img {
+    margin: auto;
+    padding:auto;
+}
+.cycel {
+    align-items: center;
+    background-color: rgb(79, 223, 86);
+    width: 200px;
+    height: 200px
+}
+.cycel img {
+    margin: auto;
+    padding:auto;
+}
